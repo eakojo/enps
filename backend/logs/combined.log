@@ -1,0 +1,251 @@
+{"message":"fetch is not defined","level":"error","timestamp":"2020-04-02 07:31:37"}
+{"message":"fetch is not defined","level":"error","timestamp":"2020-04-02 07:33:58"}
+{"message":"Dropbox is not a constructor","level":"error","timestamp":"2020-04-02 07:41:02"}
+{"message":"Cannot read property 'path_lower' of undefined","level":"error","timestamp":"2020-04-02 07:58:05"}
+{"message":"Cannot read property 'path_lower' of undefined","level":"error","timestamp":"2020-04-02 08:00:07"}
+{"message":"Cannot read property 'replace' of undefined","level":"error","timestamp":"2020-04-02 11:53:12"}
+{"message":{"error":"Error in call to API function \"files/download\": HTTP header \"Dropbox-API-Arg\": expected object, got string","response":{"size":0,"timeout":0},"status":400},"level":"error","timestamp":"2020-04-02 11:54:55"}
+{"message":{"error":"Error in call to API function \"files/download\": HTTP header \"Dropbox-API-Arg\": expected object, got string","response":{"size":0,"timeout":0},"status":400},"level":"error","timestamp":"2020-04-02 11:55:41"}
+{"message":{"error":"Error in call to API function \"files/download\": HTTP header \"Dropbox-API-Arg\": expected object, got string","response":{"size":0,"timeout":0},"status":400},"level":"error","timestamp":"2020-04-02 11:56:48"}
+{"message":{"error":"Error in call to API function \"files/download\": HTTP header \"Dropbox-API-Arg\": expected object, got string","response":{"size":0,"timeout":0},"status":400},"level":"error","timestamp":"2020-04-02 11:59:24"}
+{"level":"error","timestamp":"2020-04-02 16:24:29","message":"fs is not defined","stack":"ReferenceError: fs is not defined\n    at C:\\Projects\\Blossom\\blossom_lms\\backend\\middlewares\\file-handler.js:56:15\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"request to https://content.dropboxapi.com/2/files/download failed, reason: getaddrinfo ENOTFOUND content.dropboxapi.com content.dropboxapi.com:443","type":"system","errno":"ENOTFOUND","code":"ENOTFOUND","level":"error","timestamp":"2020-04-02 17:05:04","stack":"FetchError: request to https://content.dropboxapi.com/2/files/download failed, reason: getaddrinfo ENOTFOUND content.dropboxapi.com content.dropboxapi.com:443\n    at ClientRequest.<anonymous> (C:\\Projects\\Blossom\\blossom_lms\\backend\\node_modules\\node-fetch\\lib\\index.js:1455:11)\n    at ClientRequest.emit (events.js:198:13)\n    at TLSSocket.socketErrorListener (_http_client.js:392:9)\n    at TLSSocket.emit (events.js:198:13)\n    at emitErrorNT (internal/streams/destroy.js:91:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:59:3)\n    at process._tickCallback (internal/process/next_tick.js:63:19)"}
+{"level":"error","timestamp":"2020-04-02 17:10:06","message":"dest.on is not a function","stack":"TypeError: dest.on is not a function\n    at ReadStream.Readable.pipe (_stream_readable.js:642:8)\n    at C:\\Projects\\Blossom\\blossom_lms\\backend\\middlewares\\file-handler.js:59:28\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"level":"error","timestamp":"2020-04-02 17:12:02","message":"dest.on is not a function","stack":"TypeError: dest.on is not a function\n    at ReadStream.Readable.pipe (_stream_readable.js:642:8)\n    at C:\\Projects\\Blossom\\blossom_lms\\backend\\middlewares\\file-handler.js:59:28\n    at process._tickCallback (internal/process/next_tick.js:68:7)"}
+{"message":"Cannot read property 'filename' of undefined","level":"error","timestamp":"2020-04-02 18:40:01"}
+{"message":"Programs is not defined","level":"error","timestamp":"2020-04-02 19:35:22"}
+{"message":"ProgramDays is associated to Program using an alias. You've included an alias (days), but it does not match the alias(es) defined in your association (program).","level":"error","timestamp":"2020-04-02 19:36:08"}
+{"message":"Support for `{where: 'raw query'}` has been removed.","level":"error","timestamp":"2020-04-02 19:36:36"}
+{"message":"Support for `{where: 'raw query'}` has been removed.","level":"error","timestamp":"2020-04-02 19:37:27"}
+{"message":"Not unique table/alias: 'program'","level":"error","timestamp":"2020-04-02 19:37:58"}
+{"message":"ProgramDays is associated to Program using an alias. You've included an alias (program), but it does not match the alias(es) defined in your association (days).","level":"error","timestamp":"2020-04-02 19:39:07"}
+{"message":"Include unexpected. Element has to be either a Model, an Association or an object.","level":"error","timestamp":"2020-04-02 19:42:02"}
+{"message":"Include unexpected. Element has to be either a Model, an Association or an object.","level":"error","timestamp":"2020-04-02 19:47:59"}
+{"message":"ProgramDays is not associated to Instructor!","level":"error","timestamp":"2020-04-02 19:49:56"}
+{"message":"users.forEach is not a function","level":"error","timestamp":"2020-04-02 21:47:03"}
+{"message":"users.map is not a function","level":"error","timestamp":"2020-04-02 21:47:47"}
+{"message":"users.forEach is not a function","level":"error","timestamp":"2020-04-02 21:48:45"}
+{"message":"user is not defined","level":"error","timestamp":"2020-04-02 21:49:51"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 02:44:03"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 02:46:33"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 02:47:30"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 02:48:33"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 02:49:46"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 02:51:26"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 02:53:43"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 02:54:03"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 02:54:33"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 03:08:28"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 03:09:04"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 03:09:26"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 03:13:08"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 03:13:53"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 03:14:19"}
+{"message":"Cannot read property 'Symbol(Symbol.iterator)' of undefined","level":"error","timestamp":"2020-04-03 03:17:37"}
+{"message":"moment.time is not a function","level":"error","timestamp":"2020-04-03 03:32:41"}
+{"message":"Table 'blossom_lms.students' doesn't exist","level":"error","timestamp":"2020-04-03 07:19:13"}
+{"message":"Unknown column 'profile.alumin' in 'field list'","level":"error","timestamp":"2020-04-03 08:06:23"}
+{"message":"Unknown column 'profile.alumin' in 'field list'","level":"error","timestamp":"2020-04-03 08:08:22"}
+{"message":"Cannot read property 'id' of null","level":"error","timestamp":"2020-04-03 08:31:57"}
+{"message":"Cannot read property 'id' of null","level":"error","timestamp":"2020-04-03 08:32:03"}
+{"message":"Cannot read property 'id' of null","level":"error","timestamp":"2020-04-03 08:32:39"}
+{"message":"accountService.getStudent is not a function","level":"error","timestamp":"2020-04-03 08:35:26"}
+{"message":"accountService.getStudent is not a function","level":"error","timestamp":"2020-04-03 08:37:06"}
+{"message":"StudentPrograms is not defined","level":"error","timestamp":"2020-04-03 10:06:36"}
+{"message":"StudentPrograms is not defined","level":"error","timestamp":"2020-04-03 10:07:08"}
+{"message":"StudentPrograms is not associated to User!","level":"error","timestamp":"2020-04-03 10:08:09"}
+{"message":"StudentPrograms is not associated to User!","level":"error","timestamp":"2020-04-03 10:11:40"}
+{"message":"StudentPrograms is not associated to User!","level":"error","timestamp":"2020-04-03 10:13:47"}
+{"message":"StudentPrograms is not associated to User!","level":"error","timestamp":"2020-04-03 10:14:11"}
+{"message":"StudentPrograms is not associated to User!","level":"error","timestamp":"2020-04-03 10:16:39"}
+{"message":"StudentPrograms is not associated to User!","level":"error","timestamp":"2020-04-03 10:19:22"}
+{"message":"StudentPrograms is associated to User using an alias. You've included an alias (programs), but it does not match the alias(es) defined in your association (enrolls).","level":"error","timestamp":"2020-04-03 10:19:39"}
+{"message":"Unknown column 'profile.alumni' in 'where clause'","level":"error","timestamp":"2020-04-03 10:19:59"}
+{"message":"Unknown column 'studens.alumni' in 'where clause'","level":"error","timestamp":"2020-04-03 10:20:54"}
+{"message":"Unknown column 'students.alumni' in 'where clause'","level":"error","timestamp":"2020-04-03 10:21:04"}
+{"message":"Unknown column 'studentprograms.expired' in 'where clause'","level":"error","timestamp":"2020-04-03 10:21:41"}
+{"message":"Unknown column 'students.alumni' in 'where clause'","level":"error","timestamp":"2020-04-03 10:23:06"}
+{"message":"Unknown column 'students.alumni' in 'where clause'","level":"error","timestamp":"2020-04-03 10:23:14"}
+{"message":"Unknown column 'studentprograms.expired' in 'where clause'","level":"error","timestamp":"2020-04-03 10:23:35"}
+{"message":"Incorrect integer value: 'Software engineering' for column 'programId' at row 1","level":"error","timestamp":"2020-04-03 14:11:46"}
+{"message":"Incorrect integer value: 'Software engineering' for column 'programId' at row 1","level":"error","timestamp":"2020-04-03 14:12:12"}
+{"message":"Cannot read property 'id' of null","level":"error","timestamp":"2020-04-07 12:29:53"}
+{"message":"Cannot read property 'id' of null","level":"error","timestamp":"2020-04-07 13:05:31"}
+{"message":"Cannot read property 'id' of null","level":"error","timestamp":"2020-04-07 13:06:32"}
+{"message":"user is not defined","level":"error","timestamp":"2020-04-07 15:16:34"}
+{"message":"Cannot read property 'duration' of null","level":"error","timestamp":"2020-04-09 06:43:14"}
+{"message":"Cannot read property 'duration' of null","level":"error","timestamp":"2020-04-09 06:43:45"}
+{"message":"programService.generateLecture is not a function","level":"error","timestamp":"2020-04-09 06:45:36"}
+{"message":"result is not defined","level":"error","timestamp":"2020-04-09 06:46:25"}
+{"message":"lectureDays is not defined","level":"error","timestamp":"2020-04-09 07:50:15"}
+{"message":"duration is not defined","level":"error","timestamp":"2020-04-09 08:11:32"}
+{"message":"Cannot read property 'clone' of undefined","level":"error","timestamp":"2020-04-09 08:12:04"}
+{"message":"start is not defined","level":"error","timestamp":"2020-04-09 08:13:39"}
+{"message":"endDate is not defined","level":"error","timestamp":"2020-04-09 08:15:57"}
+{"message":"generatedDateByDay is not defined","level":"error","timestamp":"2020-04-09 08:22:41"}
+{"message":"generatedDateByDay is not defined","level":"error","timestamp":"2020-04-09 08:24:13"}
+{"message":"Cannot read property 'push' of undefined","level":"error","timestamp":"2020-04-09 08:29:17"}
+{"message":"Cannot read property 'start' of undefined","level":"error","timestamp":"2020-04-09 10:24:05"}
+{"message":"Cannot read property 'start' of undefined","level":"error","timestamp":"2020-04-09 10:56:07"}
+{"message":"item is not defined","level":"error","timestamp":"2020-04-09 11:12:32"}
+{"message":"generatedLecture is not defined","level":"error","timestamp":"2020-04-09 12:48:40"}
+{"message":"Instructor is not associated to ProgramLecture!","level":"error","timestamp":"2020-04-09 13:25:16"}
+{"message":"user is not defined","level":"error","timestamp":"2020-04-09 13:57:25"}
+{"message":"Unknown column 'programlectures.date' in 'order clause'","level":"error","timestamp":"2020-04-09 15:58:25"}
+{"message":"Unknown column 'ProgramLectures.date' in 'order clause'","level":"error","timestamp":"2020-04-09 15:58:55"}
+{"message":"Cannot read property 'concat' of undefined","level":"error","timestamp":"2020-04-09 16:30:33"}
+{"message":"Unknown column 'ProgramLecture.ASC' in 'order clause'","level":"error","timestamp":"2020-04-09 16:42:22"}
+{"message":"Incorrect datetime value: 'Invalid date' for column 'date' at row 1","level":"error","timestamp":"2020-04-09 17:04:51"}
+{"message":"generatedDateByDay.flat is not a function","level":"error","timestamp":"2020-04-09 17:06:11"}
+{"message":"Cannot read property 'destroy' of undefined","level":"error","timestamp":"2020-04-09 18:53:28"}
+{"message":"Cannot read property 'id' of null","level":"error","timestamp":"2020-04-09 20:53:25"}
+{"message":"Cannot read property 'id' of null","level":"error","timestamp":"2020-04-09 20:54:39"}
+{"message":"Cannot read property 'id' of null","level":"error","timestamp":"2020-04-09 20:54:52"}
+{"message":"User is associated to StudentPrograms using an alias. You've included an alias (student), but it does not match the alias(es) defined in your association (students).","level":"error","timestamp":"2020-04-10 08:51:38"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3306","level":"error","timestamp":"2020-04-13 16:59:58"}
+{"message":"Cannot read property 'name' of null","level":"error","timestamp":"2020-04-13 17:12:53"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-13 17:12:56"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-13 17:12:59"}
+{"message":"Unknown column 'ProgramLecture.userId' in 'where clause'","level":"error","timestamp":"2020-04-13 19:02:40"}
+{"message":"Program is associated to ProgramDays using an alias. You've included an alias (program), but it does not match the alias(es) defined in your association (course).","level":"error","timestamp":"2020-04-13 19:03:15"}
+{"message":"Program is associated to ProgramDays using an alias. You've included an alias (program), but it does not match the alias(es) defined in your association (course).","level":"error","timestamp":"2020-04-13 19:03:18"}
+{"message":"Program is associated to ProgramDays using an alias. You've included an alias (days), but it does not match the alias(es) defined in your association (course).","level":"error","timestamp":"2020-04-13 19:03:48"}
+{"message":"Cannot read property 'id' of undefined","level":"error","timestamp":"2020-04-13 19:09:10"}
+{"message":"Cannot read property 'id' of undefined","level":"error","timestamp":"2020-04-13 19:09:51"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-13 19:38:58"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-13 19:44:18"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-13 19:53:19"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-13 19:54:06"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-13 19:54:28"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-13 19:54:44"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-13 19:55:09"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-13 21:30:20"}
+{"message":"student is not defined","level":"error","timestamp":"2020-04-13 21:32:51"}
+{"message":"Student is not defined","level":"error","timestamp":"2020-04-13 22:31:03"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-14 06:38:47"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-14 06:39:56"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-14 06:40:28"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-14 06:40:35"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-14 06:41:09"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-14 06:41:26"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-14 06:43:18"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-14 06:43:18"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-14 06:43:26"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-14 06:44:01"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-14 06:44:06"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-14 06:45:14"}
+{"message":"condition is not defined","level":"error","timestamp":"2020-04-14 07:02:29"}
+{"message":"Program is associated to ProgramLecture using an alias. You've included an alias (course), but it does not match the alias(es) defined in your association (program).","level":"error","timestamp":"2020-04-14 07:02:53"}
+{"message":"Cannot read property 'addedBy' of null","level":"error","timestamp":"2020-04-15 08:11:08"}
+{"message":"Cannot set headers after they are sent to the client","level":"error","timestamp":"2020-04-15 08:11:08"}
+{"message":"Cannot read property 'id' of null","level":"error","timestamp":"2020-04-15 09:46:51"}
+{"message":"Cannot set headers after they are sent to the client","level":"error","timestamp":"2020-04-15 09:46:51"}
+{"message":"Cannot read property 'id' of null","level":"error","timestamp":"2020-04-15 09:46:52"}
+{"message":"Cannot set headers after they are sent to the client","level":"error","timestamp":"2020-04-15 09:46:52"}
+{"message":"Cannot read property 'id' of null","level":"error","timestamp":"2020-04-15 09:47:17"}
+{"message":"Cannot set headers after they are sent to the client","level":"error","timestamp":"2020-04-15 09:47:17"}
+{"message":"getaddrinfo ENOTFOUND api.cloudinary.com api.cloudinary.com:443","level":"error","timestamp":"2020-04-15 09:52:12"}
+{"message":"count is not defined","level":"error","timestamp":"2020-04-15 12:39:25"}
+{"message":"Cannot read property 'name' of null","level":"error","timestamp":"2020-04-16 02:39:35"}
+{"message":"Cannot read property 'name' of null","level":"error","timestamp":"2020-04-16 04:33:40"}
+{"message":"Cannot read property 'name' of null","level":"error","timestamp":"2020-04-16 04:55:02"}
+{"message":"Cannot read property 'name' of null","level":"error","timestamp":"2020-04-16 05:46:56"}
+{"message":"date is not defined","level":"error","timestamp":"2020-04-16 10:38:12"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3306","level":"error","timestamp":"2020-04-16 15:29:06"}
+{"message":"Incorrect datetime value: 'Invalid date' for column 'expiration' at row 1","level":"error","timestamp":"2020-04-16 15:59:52"}
+{"message":"Incorrect datetime value: 'Invalid date' for column 'expiration' at row 1","level":"error","timestamp":"2020-04-17 07:35:32"}
+{"message":"Incorrect integer value: '' for column 'testId' at row 1","level":"error","timestamp":"2020-04-17 09:28:17"}
+{"message":"PracticeTest is not defined","level":"error","timestamp":"2020-04-17 14:45:21"}
+{"message":"Question is not defined","level":"error","timestamp":"2020-04-17 14:46:01"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3306","level":"error","timestamp":"2020-04-21 17:43:43"}
+{"message":"string violation: logo cannot be an array or an object","level":"error","timestamp":"2020-04-21 17:55:37"}
+{"message":"string violation: logo cannot be an array or an object","level":"error","timestamp":"2020-04-21 17:57:33"}
+{"message":"user.toWeb is not a function","level":"error","timestamp":"2020-04-21 23:00:29"}
+{"message":"JWTService is not defined","level":"error","timestamp":"2020-04-21 23:02:00"}
+{"message":"WHERE parameter \"email\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-22 10:18:49"}
+{"message":"Cannot read property 'id' of undefined","level":"error","timestamp":"2020-04-22 10:21:28"}
+{"message":"company is not defined","level":"error","timestamp":"2020-04-22 10:40:29"}
+{"message":"Unknown column 'companyId' in 'field list'","level":"error","timestamp":"2020-04-22 15:13:53"}
+{"message":"string violation: logo cannot be an array or an object","level":"error","timestamp":"2020-04-23 13:05:50"}
+{"message":"string violation: logo cannot be an array or an object","level":"error","timestamp":"2020-04-23 13:07:27"}
+{"message":"string violation: logo cannot be an array or an object","level":"error","timestamp":"2020-04-23 13:12:46"}
+{"message":"string violation: logo cannot be an array or an object","level":"error","timestamp":"2020-04-23 13:13:19"}
+{"message":"string violation: logo cannot be an array or an object","level":"error","timestamp":"2020-04-23 13:16:00"}
+{"message":"string violation: logo cannot be an array or an object","level":"error","timestamp":"2020-04-23 13:17:56"}
+{"message":"string violation: logo cannot be an array or an object","level":"error","timestamp":"2020-04-23 13:18:27"}
+{"message":"string violation: logo cannot be an array or an object","level":"error","timestamp":"2020-04-23 13:18:27"}
+{"message":"string violation: logo cannot be an array or an object","level":"error","timestamp":"2020-04-23 13:25:34"}
+{"message":"accountService.getAllManagement is not a function","level":"error","timestamp":"2020-04-23 22:02:13"}
+{"message":"Account is not associated to Account!","level":"error","timestamp":"2020-04-23 22:02:33"}
+{"message":"Not unique table/alias: 'account'","level":"error","timestamp":"2020-04-23 22:02:52"}
+{"message":"Management is associated to Account using an alias. You've included an alias (account), but it does not match the alias(es) defined in your association (management).","level":"error","timestamp":"2020-04-23 22:05:14"}
+{"message":"management is not defined","level":"error","timestamp":"2020-04-24 07:50:30"}
+{"message":"WHERE parameter \"email\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-24 17:22:15"}
+{"message":"WHERE parameter \"email\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-24 17:24:27"}
+{"message":"WHERE parameter \"email\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-24 17:25:07"}
+{"message":"body is not defined","level":"error","timestamp":"2020-04-24 17:41:43"}
+{"message":"Unexpected field","level":"error","timestamp":"2020-04-25 15:02:08"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3306","level":"error","timestamp":"2020-04-27 09:05:22"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-27 10:40:21"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-27 10:58:41"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-27 11:00:41"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-27 11:07:59"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-27 11:10:59"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-27 11:11:48"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-27 11:31:11"}
+{"message":"Cannot read property 'firstname' of undefined","level":"error","timestamp":"2020-04-27 11:33:55"}
+{"message":"user is not defined","level":"error","timestamp":"2020-04-27 11:35:34"}
+{"message":"user is not defined","level":"error","timestamp":"2020-04-27 11:39:30"}
+{"message":"user is not defined","level":"error","timestamp":"2020-04-27 12:09:01"}
+{"message":"user is not defined","level":"error","timestamp":"2020-04-27 12:09:16"}
+{"message":"user is not defined","level":"error","timestamp":"2020-04-27 12:09:31"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-27 12:11:24"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-27 12:13:02"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-27 12:15:41"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-27 12:17:36"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-27 12:21:41"}
+{"message":"WHERE parameter \"id\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-27 12:24:50"}
+{"message":"Logger.success is not a function","level":"error","timestamp":"2020-04-29 14:21:10"}
+{"message":{"code":"n5qhy6f532"},"level":"info","timestamp":"2020-04-29 14:26:13"}
+{"message":{"code":"424xexxia4"},"level":"info","timestamp":"2020-04-29 14:34:51"}
+{"message":"sx6o0qwv5s","level":"info","timestamp":"2020-04-29 14:48:03"}
+{"message":"WHERE parameter \"email\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-29 15:24:38"}
+{"message":"getaddrinfo ENOTFOUND api.cloudinary.com api.cloudinary.com:443","level":"error","timestamp":"2020-04-30 14:15:30"}
+{"message":"getaddrinfo ENOTFOUND api.cloudinary.com api.cloudinary.com:443","level":"error","timestamp":"2020-04-30 14:20:31"}
+{"message":"getaddrinfo ENOTFOUND api.cloudinary.com api.cloudinary.com:443","level":"error","timestamp":"2020-04-30 14:20:49"}
+{"message":"getaddrinfo ENOTFOUND api.cloudinary.com api.cloudinary.com:443","level":"error","timestamp":"2020-04-30 14:27:30"}
+{"message":"WHERE parameter \"email\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-30 14:30:05"}
+{"message":"WHERE parameter \"email\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-30 14:32:31"}
+{"message":"WHERE parameter \"email\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-30 14:36:59"}
+{"message":"WHERE parameter \"email\" has invalid \"undefined\" value","level":"error","timestamp":"2020-04-30 14:42:27"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3306","level":"error","timestamp":"2020-05-01 12:19:53"}
+{"message":"zddlmys9og","level":"info","timestamp":"2020-05-01 14:02:17"}
+{"message":"cbpi8kkiga","level":"info","timestamp":"2020-05-01 14:12:46"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3306","level":"error","timestamp":"2020-05-04 08:24:18"}
+{"message":"connect ECONNREFUSED 127.0.0.1:3306","level":"error","timestamp":"2020-05-05 09:41:43"}
+{"message":"Employee is associated to Survey using an alias. You've included an alias (employees), but it does not match the alias(es) defined in your association (employee).","level":"error","timestamp":"2020-05-11 21:16:06"}
+{"message":"Cannot read property 'findAll' of undefined","level":"error","timestamp":"2020-05-12 03:43:34"}
+{"message":"primary is not defined","level":"error","timestamp":"2020-05-12 04:11:35"}
+{"message":"WHERE parameter \"companyId\" has invalid \"undefined\" value","level":"error","timestamp":"2020-05-12 04:12:08"}
+{"message":"Unknown column 'questions.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:12:27"}
+{"message":"Unknown column 'Question.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:13:20"}
+{"message":"Unknown column 'Questions.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:14:46"}
+{"message":"Unknown column 'Questions.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:15:52"}
+{"message":"Unknown column 'questions.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:16:16"}
+{"message":"Unknown column 'Questions.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:17:01"}
+{"message":"Unknown column 'Question.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:17:22"}
+{"message":"Unknown column 'question.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:18:34"}
+{"message":"Unknown column 'Questions.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:19:29"}
+{"message":"Unknown column 'questions.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:24:43"}
+{"message":"Unknown column 'Questions.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:25:52"}
+{"message":"Unknown column 'Questions.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:30:47"}
+{"message":"Unknown column 'question.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:31:04"}
+{"message":"Unknown column 'questions.type' in 'where clause'","level":"error","timestamp":"2020-05-12 04:31:16"}
+{"message":"surveys.map is not a function","level":"error","timestamp":"2020-05-12 04:40:25"}
+{"message":"selected is not defined","level":"error","timestamp":"2020-05-12 04:45:29"}
+{"message":"Cannot read property '0' of undefined","level":"error","timestamp":"2020-05-12 06:03:09"}
+{"message":"Cannot read property '0' of undefined","level":"error","timestamp":"2020-05-12 06:04:13"}
+{"message":"Cannot read property 'length' of undefined","level":"error","timestamp":"2020-05-12 06:04:42"}
+{"message":"Cannot read property '0' of undefined","level":"error","timestamp":"2020-05-12 06:06:23"}
+{"message":"Cannot read property 'length' of undefined","level":"error","timestamp":"2020-05-12 06:06:46"}
+{"message":"3n8z45bdz1","level":"info","timestamp":"2020-05-12 06:41:12"}
